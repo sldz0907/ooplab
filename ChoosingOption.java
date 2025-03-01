@@ -1,4 +1,4 @@
-
+package JavaBasics;
 import javax.swing.JOptionPane;
 
 public class ChoosingOption {
